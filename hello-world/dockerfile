@@ -21,4 +21,4 @@ ENV PS1="\[\e[38;5;5m\]\w\[\e[00m\] $ "
 
 ENTRYPOINT ["/entrypoint.sh"]
 
-CMD ["/bin/sh"
+CMD ["/bin/sh"]
